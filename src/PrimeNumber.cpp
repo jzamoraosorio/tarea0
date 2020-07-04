@@ -34,7 +34,6 @@ bool isPrimeNumber(int num) {
       return false;
     }
   }
-
   return true;
 }
 
