@@ -18,7 +18,6 @@ int PrimeNumber(int input) {
       count++;
     }
   }
-
   return num;
 
 }
