@@ -18,7 +18,6 @@ int PrimeNumber(int input) {
       count++;
     }
   }
-
   return num;
 
 }
@@ -34,7 +33,6 @@ bool isPrimeNumber(int num) {
       return false;
     }
   }
-
   return true;
 }
 
